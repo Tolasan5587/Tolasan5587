@@ -31,15 +31,16 @@ Passionate about building modern, responsive, and efficient applications. I enjo
 
 ## 📈 GitHub Stats  
 
-![San Tola's GitHub stats](https://github-readme-stats.vercel.app/api?username=SanTola&show_icons=true&theme=radical)  
+![San Tola's GitHub stats](https://github.com/Tolasan5587)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanTola&layout=compact&theme=radical)  
 
 ---
 
 ## 🌐 Connect With Me  
-- 💼 LinkedIn: [Your LinkedIn](#)  
-- 📧 Email: [Your Email](#)  
-- 🌍 Portfolio: [Your Portfolio](#)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SanTola)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)  
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](#)  
 
 ---
 
